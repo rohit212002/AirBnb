@@ -66,9 +66,8 @@
 
 .meme {
     position: relative;
-    max-width: 23%;
-    max-height: 60%;
-    margin: auto;
+    display: flex;
+    justify-content: center;
 }
 
 .meme--image {
